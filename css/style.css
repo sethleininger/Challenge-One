@@ -3,23 +3,23 @@
     padding: 0;
     margin: 0;
 }
-
+/* background color for entire body  */
 body {
     background-color: #d9dcd6;
 }
-
+/* viusal header attributes */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* h1 text in header */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* "seo" portion of h1 title */
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* hero pitcture attributes */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* positioning of sections in body */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -133,7 +133,7 @@ p {
     font-size: 36px;
 }
 
-
+/* footer attributes */
 .footer {
     padding: 30px;
     clear: both;
